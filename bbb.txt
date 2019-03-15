@@ -1,4 +1,0 @@
-aaaaa
-这次试用git revert
-
-这个是一个错误的push提交
